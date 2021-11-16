@@ -36,4 +36,4 @@ Part Drawings:
 - 00-000.06.05.05.12 Bushing
 
 
-![Vise](Vise photo.PNG)
+![Screenshot](Vise photo.PNG)
