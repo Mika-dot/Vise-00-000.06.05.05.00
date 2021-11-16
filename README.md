@@ -34,3 +34,6 @@ Part Drawings:
 - 00-000.06.05.05.10 Square
 - 00-000.06.05.05.11 Clamp
 - 00-000.06.05.05.12 Bushing
+
+
+![Vise](Vise photo.PNG)
